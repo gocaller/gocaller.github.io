@@ -7,3 +7,11 @@
   font:14px Helvetica,Arial,sans-serif;
   width:100%;
 }
+.signup {
+  background: #e8760a;
+  padding: 5px;
+  border-radius: 4px;
+  color: white;
+  font-size: 0.9em;
+  font-weight: 200;
+}
